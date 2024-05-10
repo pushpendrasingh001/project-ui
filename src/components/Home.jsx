@@ -24,7 +24,7 @@ function Home() {
           <img
             src="../../public/CCC.png"
           />
-            <p className='flex  text-center font-bold text-white mt-[-40px] ml-[60px]
+            <p className='flex  text-center font-bold text-white mt-[-50px] ml-[60px]
             m-4 md:ml-[110px]'>Coding Club <br /> Create Somthing Next</p>
         </div>
       
